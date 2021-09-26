@@ -2,7 +2,7 @@ package com.bat.LandTraningSeleniumAutomation.Utils;
 
 public class PathUtils {
 	public static class URL { 
-		public static final String baseUrl = "";
+		public static final String baseUrl = "https://troffice7.land.gov.bd/dashboard/login";
 		public static final String homepageTitle = "জাতীয় ভূমি তথ্য ও সেবা কাঠামো";
 	}
 
@@ -12,8 +12,8 @@ public class PathUtils {
 		public static final String passwordField = "password";
 		public static final String loginBtn = "submit";
 
-		public static final String username = "";
-		public static final String password = "";
+		public static final String username = "mukarrom";
+		public static final String password = "Dhak@1231";
 	}
 
 	public static class Variabls {
